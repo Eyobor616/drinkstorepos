@@ -1,0 +1,2 @@
+# drinkstorepos
+manage drink store
